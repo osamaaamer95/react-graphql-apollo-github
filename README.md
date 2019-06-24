@@ -1,6 +1,6 @@
 # react-graphql-apollo-github
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d0fe7027-70ad-469f-bc88-b7769655024c/deploy-status)](https://app.netlify.com/sites/elated-almeida-87f156/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0fe7027-70ad-469f-bc88-b7769655024c/deploy-status)](https://app.netlify.com/sites/elated-almeida-87f156/deploys) [![Greenkeeper badge](https://badges.greenkeeper.io/osamaaamer95/react-graphql-apollo-github.svg)](https://greenkeeper.io/)
 
  <a href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
