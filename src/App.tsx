@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Profile from './Profile';
 
-const App: React.FC = (): React.ReactElement => {
+const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +18,7 @@ const App: React.FC = (): React.ReactElement => {
           rel="noopener noreferrer"
         >
           Learn React
+          <Profile />
         </a>
       </header>
     </div>

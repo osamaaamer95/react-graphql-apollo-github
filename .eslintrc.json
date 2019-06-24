@@ -1,12 +1,8 @@
 {
   "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
-    "plugin:prettier/recommended"
+    "react-app"
   ],
-  "plugins": ["react", "@typescript-eslint", "prettier"],
+  "plugins": ["react", "prettier"],
   "env": {
     "browser": true,
     "jasmine": true,
@@ -14,12 +10,5 @@
   },
   "rules": {
     "prettier/prettier": ["error", { "singleQuote": true }]
-  },
-  "settings": {
-    "react": {
-      "pragma": "React",
-      "version": "detect"
-    }
-  },
-  "parser": "@typescript-eslint/parser"
+  }
 }

@@ -1,3 +1,10 @@
+# react-graphql-apollo-github
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0fe7027-70ad-469f-bc88-b7769655024c/deploy-status)](https://app.netlify.com/sites/elated-almeida-87f156/deploys)
+
+ <a href="#badge">
+    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
